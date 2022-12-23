@@ -86,6 +86,21 @@ const HomeStyles = styled.div`
   }
 `;
 
+export const Head = () => (
+  <>
+    <title>Market Bar — A Bar for All</title>
+    <meta property="og:title" content="Market Bar" />
+    <meta name="description" content="A Bar for All" />
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="A Bar for All" />
+    <meta
+      property="og:image"
+      content="https://i.ibb.co/y425N3S/Social-Share.png"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+  </>
+);
+
 export default function Index() {
   return (
     <HomeStyles>

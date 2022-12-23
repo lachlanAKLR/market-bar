@@ -8,7 +8,10 @@ export default function Nav() {
       <div className="header__inner">
         <div className="header__link">
           <p>
-            <a href="/" target="blank">
+            <a
+              href="https://www.instagram.com/marketbarrichmond/"
+              target="blank"
+            >
               INSTAGRAM
             </a>
           </p>
@@ -18,7 +21,7 @@ export default function Nav() {
         </div>
         <div className="header__link">
           <p>
-            <a href="/" target="blank">
+            <a href="mailto:marketbarrichmond@gmail.com" target="blank">
               EMAIL
             </a>
           </p>
