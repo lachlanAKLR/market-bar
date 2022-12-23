@@ -24,5 +24,11 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        icon: 'static/favicon.svg',
+      },
+    },
   ],
 };

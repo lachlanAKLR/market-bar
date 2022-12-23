@@ -95,7 +95,7 @@ export const Head = () => (
     <meta property="og:description" content="A Bar for All" />
     <meta
       property="og:image"
-      content="https://i.ibb.co/y425N3S/Social-Share.png"
+      content="https://i.ibb.co/h9PtrCt/Market-Bar-Share-Icon-A.jpg"
     />
     <meta name="twitter:card" content="summary_large_image" />
   </>
